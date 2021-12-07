@@ -1,0 +1,9 @@
+{
+	"name": "bhagyanewADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d8a07b8d-8c5f-472a-8231-19f0f55ae0ec",
+		"tenantId": "379cdf40-e482-4ff1-a7df-2d1e938e5229"
+	}
+}
